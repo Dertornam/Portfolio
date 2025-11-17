@@ -25,7 +25,7 @@ Strategic and customer-centered Data Analyst with over 5 years of experience lea
 - Research & Evaluation: NVivo, Qualtrics, Otter, statistical reporting, data storytelling
 
 
-**Professional Experience**
+## Professional Experience
 
 University of Massachusetts, Lowell
 
@@ -63,7 +63,7 @@ Research Assistant June 2022 – May 2023 | Lowell, MA
 - Expanded Academic Programs: Helped the addition of two new program concentrations, broadening the university's academic appeal.
 
 
-**Education**
+## Education
 
 Mount Vernon Nazarene University
 
@@ -120,7 +120,7 @@ Evangelical Presbyterian University College
 - “Identifying and Addressing Leaders’ Learning Needs to Develop Mindsets for Equity-focused Continuous Improvement” University Council for Educational Administration Annual Convention, November 2022
 
 
-**Research Grants and Contracts**
+## Research Grants and Contracts
 
 - Research Assistant, UML-LPS Research Practice Partnership Contributed to a $250,000 contract with Lowell Public Schools focused on data use and school improvement.
 

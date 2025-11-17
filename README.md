@@ -27,9 +27,9 @@ Strategic and customer-centered Data Analyst with over 5 years of experience lea
 
 ## Professional Experience
 
-University of Massachusetts, Lowell
+**University of Massachusetts, Lowell**
 
-Online Programs Data Analyst—January 2022 – Present | Lowell, MA
+**Online Programs Data Analyst—January 2022 – Present | Lowell, MA**
 
 - Led sentiment analysis on student satisfaction survey data using Python NLP, surfacing actionable insights that guided redesign of digital student services and improved engagement.
 
@@ -46,17 +46,18 @@ Online Programs Data Analyst—January 2022 – Present | Lowell, MA
 - Optimized Assessment Tools: Partnered with faculty to refine assessments, boosting test reliability and validity.
 
 
-University of Massachusetts, Lowell
+**University of Massachusetts, Lowell**
 
-Research Assistant June 2022 – May 2023 | Lowell, MA
+**Research Assistant June 2022 – May 2023 | Lowell, MA**
 
 - Strengthened Leadership Decisions: Developed and administered surveys for school leadership, improving data-driven decisions.
 
 - Streamlined Data Management: Led the creation of a database for observational practicums, enhancing data efficiency.
 
-- Mount Vernon Nazarene University
 
-- Research Graduate Assistant May 2018 – April 2020 | Mount Vernon, OH
+**Mount Vernon Nazarene University**
+
+**Research Graduate Assistant May 2018 – April 2020 | Mount Vernon, OH**
 
 - Increased Enrollment: Drove new student enrollment up by 14% through targeted demographic research and data strategies using Gray Associates.
 

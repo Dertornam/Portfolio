@@ -24,11 +24,12 @@ Strategic and customer-centered Data Analyst with over 5 years of experience lea
 
 - Research & Evaluation: NVivo, Qualtrics, Otter, statistical reporting, data storytelling
 
-- Professional Experience
 
-- University of Massachusetts, Lowell
+**Professional Experience**
 
-- Online Programs Data Analyst—January 2022 – Present | Lowell, MA
+University of Massachusetts, Lowell
+
+Online Programs Data Analyst—January 2022 – Present | Lowell, MA
 
 - Led sentiment analysis on student satisfaction survey data using Python NLP, surfacing actionable insights that guided redesign of digital student services and improved engagement.
 
@@ -44,9 +45,10 @@ Strategic and customer-centered Data Analyst with over 5 years of experience lea
 
 - Optimized Assessment Tools: Partnered with faculty to refine assessments, boosting test reliability and validity.
 
-- University of Massachusetts, Lowell
 
-- Research Assistant June 2022 – May 2023 | Lowell, MA
+University of Massachusetts, Lowell
+
+Research Assistant June 2022 – May 2023 | Lowell, MA
 
 - Strengthened Leadership Decisions: Developed and administered surveys for school leadership, improving data-driven decisions.
 
@@ -60,25 +62,28 @@ Strategic and customer-centered Data Analyst with over 5 years of experience lea
 
 - Expanded Academic Programs: Helped the addition of two new program concentrations, broadening the university's academic appeal.
 
-- Education
 
-- Mount Vernon Nazarene University
+**Education**
+
+Mount Vernon Nazarene University
 
 - Master of Business Administration, Business Data Analytics: Mount Vernon, OH
 
-- Mount Vernon Nazarene University
+Mount Vernon Nazarene University
 
 - Master of Business Administration, Organizational Management: Mount Vernon, OH
 
-- Evangelical Presbyterian University College
+Evangelical Presbyterian University College
 
 - Bachelor of Science in Business Administration (Marketing): Ho, Ghana
+
 
 ## Featured Projects
 
 - [Higher Ed Analytics Portfolio](https://dertornam.github.io/higher-ed-analytics-portfolio/)
 
 - [Healthcare Analytics Portfolio](https://dertornam.github.io/healthcare-analytics-portfolio./#projects)
+
 
 ## Certifications
 
@@ -98,11 +103,13 @@ Strategic and customer-centered Data Analyst with over 5 years of experience lea
 
 - CITI Program • Credential ID 63537690 • Issued Jul 2024 - Expires Jul 2027
 
+
 ## Publications
 
 - Devising a Holistic Data Dashboard: A university team collaborates with a Massachusetts district on leveraging new information for schoolwide improvement
 
 - Understanding School Principals’ Perspectives on Using Data for Improvement
+
 
 ## Conference Presentations
 
@@ -112,17 +119,20 @@ Strategic and customer-centered Data Analyst with over 5 years of experience lea
 
 - “Identifying and Addressing Leaders’ Learning Needs to Develop Mindsets for Equity-focused Continuous Improvement” University Council for Educational Administration Annual Convention, November 2022
 
-- Research Grants and Contracts
+
+**Research Grants and Contracts**
 
 - Research Assistant, UML-LPS Research Practice Partnership Contributed to a $250,000 contract with Lowell Public Schools focused on data use and school improvement.
 
 - Project Assessment and Reporting Coordinator, Ghana Beyond Subsistence & Communities of Thinking Managed a $90,000 grant providing internet access for eight computer labs across eleven schools in Ghana over five years.
 
-- Academic Projects
+
+**Academic Projects**
 
 - State Accountability and Demographics Analysis: Developed a sortable database analyzing state accountability rankings alongside income and racial demographics, exploring the 90-90-90 school phenomenon in Massachusetts.
 
 - Strategic Literature Review: Conducted a rapid literature review for the Lowell School District Superintendent to inform strategic initiatives.
+
 
 ## Contact
 
